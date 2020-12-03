@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello world!&nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="24px">
 
-<!--
-**JSW-JW/JSW-JW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <em>
+    I am a <b>student developer</b> and wanna work as a <b>android developer</b>! 👨‍💻 <br>
+    I am into making <b>useful restApi App</b> and also learning how to make <b>restApi with Django</b>.
+  </em>  
+</p>
 
-Here are some ideas to get you started:
+- 🌱 I'm digging into algorithm & data structure!
+- 👯 I’m looking to collaborate on something that can help student!
+- 💬 Ask me about whatever. The contact is below.
+- 📫 How to reach me:  Github Repo Issue or vics8246@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![My github stats](https://github-readme-stats.vercel.app/api?username=JSW-JW&show_icons=true)
+
+### Contacts 📫
+
+* Github Repo Issue
+* Email: vics8246@gmail.com
+  
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
