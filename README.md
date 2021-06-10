@@ -2,14 +2,12 @@
 
 <p>
   <em>
-    I am a <b>student developer</b> and wanna work as a <b>android developer</b>! 👨‍💻 <br>
-    I am into making <b>useful restApi App</b> and also learning how to make <b>restApi with Django</b>.
+    I am a <b>student developer</b> and wanna make things as a <b>backend developer</b>! 👨‍💻 <br>
+    I am thinking what is a better way to <b>make and give value</b> to people, to the world.</b>.
   </em>  
 </p>
 
-- 🌱 I'm digging into algorithm & data structure!
 - 👯 I’m looking to collaborate on something that can help student!
-- 💬 Ask me about whatever. The contact is below.
 - 📫 How to reach me:  Github Repo Issue or vics8246@gmail.com
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=JSW-JW&show_icons=true)
