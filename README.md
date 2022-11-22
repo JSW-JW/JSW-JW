@@ -2,19 +2,16 @@
 
 <p>
   <em>
-    I am a <b>student developer</b> and wanna make things as a <b>backend developer</b>! 👨‍💻 <br>
-    I am thinking what is a better way to <b>make and give value</b> to people, to the world.</b>.
+    I wanna have various experiences as a <b>backend developer</b>! 👨‍💻 <br>
   </em>  
 </p>
 
 - 👯 I’m looking to collaborate on something that can help student!
-- 📫 How to reach me:  Github Repo Issue or vics8246@gmail.com
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=JSW-JW&show_icons=true)
+- 📫 How to reach me:  Github Repo Issue or seungwon.jeon40@gmail.com
 
 ### Contacts 📫
 
 * Github Repo Issue
-* Email: vics8246@gmail.com
+* Email: seungwon.jeon40@gmail.com
   
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
