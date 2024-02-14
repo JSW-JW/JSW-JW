@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **what is easy-to-maintain codes, how to do good test in spring framework.**
 
-- 👯 I’m looking to collaborate on **project which helps job seekers.** I wanna contribute to backend work based on spring.
+- 👯 I’m looking to collaborate on **project which helps job seekers.**
 
 - 👨‍💻 Currently I am working on "web-novel-service" project. [https://github.com/JSW-JW/web-novel-service](https://github.com/JSW-JW/web-novel-service)
 
