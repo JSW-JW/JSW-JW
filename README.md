@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm seungwon</h1>
-<h3 align="left">Backend developer continuously trying to learn and improve basics</h3>
+<h3 align="left">Backend developer always trying to learn in the business places</h3>
 
 - 🌱 I’m currently learning **what is easy-to-maintain codes, how to do good test in spring framework.**
 
